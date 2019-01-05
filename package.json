@@ -1,0 +1,22 @@
+{
+  "name": "tronfuntime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "tron",
+    "editor",
+    "ide"
+  ],
+  "author": "Peter Hu",
+  "license": "ISC",
+  "dependencies": {
+    "xterm": "^3.10.0"
+  },
+  "devDependencies": {
+    "vue2-ace-editor": "0.0.13"
+  }
+}
